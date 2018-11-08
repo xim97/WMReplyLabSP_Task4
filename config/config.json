@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "footer-info-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/footerInfo/FooterInfoApplicationCustomizer.js",
+          "manifest": "./src/extensions/footerInfo/FooterInfoApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "FooterInfoApplicationCustomizerStrings": "lib/extensions/footerInfo/loc/{locale}.js"
+  }
+}
