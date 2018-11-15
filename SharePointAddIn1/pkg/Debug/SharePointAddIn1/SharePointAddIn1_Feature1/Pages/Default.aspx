@@ -11,7 +11,7 @@
     <script type="text/javascript" src="../Scripts/jquery-1.9.1.min.js"></script>
     <SharePoint:ScriptLink name="sp.js" runat="server" OnDemand="true" LoadAfterUI="true" Localizable="false" />
     <meta name="WebPartPageExpansion" content="full" />
-
+    <WebPartPages:AllowFraming ID="AllowFraming" runat="server" />
     <!-- Добавьте свои стили CSS в следующий файл -->
     <link rel="Stylesheet" type="text/css" href="../Content/App.css" />
 

@@ -1,20 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Published:70EDFC97-B41D-43C5-B751-7C00AD999804-->
 <!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
-<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
-     Name="SharePointAddIn1"
-     ProductID="{42e8b1e8-3fb9-49ec-b9f1-e7de9b98f67f}"
-     Version="1.0.0.0"
-     SharePointMinVersion="16.0.0.0"
->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="SharePointAddIn1" ProductID="{42e8b1e8-3fb9-49ec-b9f1-e7de9b98f67f}" Version="1.0.0.0" SharePointMinVersion="16.0.0.0">
   <Properties>
     <Title>SharePointAddIn1</Title>
     <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
   </Properties>
-
   <AppPrincipal>
     <Internal />
   </AppPrincipal>
-  <AppPermissionRequests>    
+  <AppPermissionRequests>
     <AppPermissionRequest Scope="http://sharepoint/content/tenant" Right="Read" />
   </AppPermissionRequests>
   <RemoteEndpoints>
