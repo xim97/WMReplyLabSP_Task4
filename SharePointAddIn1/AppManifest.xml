@@ -8,7 +8,7 @@
 >
   <Properties>
     <Title>SharePointAddIn1</Title>
-    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+    <StartPage>~appWebUrl/Pages/Default.aspx?isDlg=1{StandardTokens}</StartPage>
   </Properties>
 
   <AppPrincipal>
