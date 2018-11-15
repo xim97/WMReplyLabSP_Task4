@@ -1,0 +1,5 @@
+D:\4курс\wmreplylab\sharepoint\SharePointAddIn1\SharePointAddIn1\bin\Debug\SharePointAddIn1.pdb
+D:\4курс\wmreplylab\sharepoint\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.csprojAssemblyReference.cache
+D:\4курс\wmreplylab\sharepoint\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.csproj.CoreCompileInputs.cache
+D:\4курс\wmreplylab\sharepoint\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.dll
+D:\4курс\wmreplylab\sharepoint\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.pdb
